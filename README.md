@@ -16,9 +16,9 @@ Database Hosting: AWS RDS
 
 API Hosting: AWS Lambda + API Gateway
 
-API code storage: S3 Bucket
+API Code Storage: S3 Bucket
 
-Deployment tool: Zappa
+Deployment Tool: Zappa
 
 
 ## Routes
