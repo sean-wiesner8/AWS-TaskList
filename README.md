@@ -2,7 +2,7 @@
 
 The goal of this project was to deploy a fully functioning web app, accessible by anyone, on AWS Lambda. The application itself is a simple task or todo list with a users table and a tasks table. There is a one-to-many relationship between users and tasks. The application allows user and task creation, retrieval, and deletion. 
 
-## Tools, libraries, languages, and services used
+## Tools, Libraries, Languages, and Services Used
 
 Backend Language: Python
 
