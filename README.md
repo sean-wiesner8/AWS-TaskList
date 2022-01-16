@@ -18,8 +18,6 @@ API Hosting: AWS Lambda + API Gateway
 
 API code storage: S3 Bucket
 
-Route Testing: Postman
-
 Deployment tool: Zappa
 
 
