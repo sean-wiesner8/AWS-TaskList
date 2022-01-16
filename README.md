@@ -19,11 +19,17 @@ Deployment tool: Zappa
 Routes:
 
 Get all users: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/users/
+
 Get specified user: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/users/3/
+
 Create user: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/users/
+
 Delete user: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/users/3/
+
 Get specified user's tasks: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/tasks/1/
+
 Create task for specified user: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/tasks/1/
+
 Delete task: https://nbnfbhc4t4.execute-api.us-east-2.amazonaws.com/dev/tasks/1/
 
 
