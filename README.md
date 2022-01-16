@@ -6,13 +6,21 @@ The goal of this project was to deploy a fully functioning web app, accessible b
 Tools, libraries, languages, and services used:
 
 Backend Language: Python
+
 Application Framework: Flask
+
 Database: MySQL
+
 Database Driver: MySQLdb
+
 Database Hosting: AWS RDS
+
 API Hosting: AWS Lambda + API Gateway
+
 API code storage: S3 Bucket
+
 Route Testing: Postman
+
 Deployment tool: Zappa
 
 
